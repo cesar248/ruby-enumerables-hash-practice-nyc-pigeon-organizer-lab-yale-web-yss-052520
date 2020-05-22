@@ -16,7 +16,7 @@ names.each do |name|
 end
 
 end
-final_array
+
 end
 
 end
